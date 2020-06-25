@@ -1,6 +1,6 @@
 # ksaeil2001 [![Code Climate](https://codeclimate.com/github/lavkumarv/feature-blog-jekyll/badges/gpa.svg)](https://codeclimate.com/github/lavkumarv/feature-blog-jekyll) <a href="https://codeclimate.com/github/lavkumarv/feature-blog-jekyll"><img src="https://codeclimate.com/github/lavkumarv/feature-blog-jekyll/badges/issue_count.svg" /></a>
 
-평생의 동방견, 하나를 
+평생의 동방견, 하나를 소개합니다
 
 Home Page:
 
