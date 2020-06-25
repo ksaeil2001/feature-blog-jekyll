@@ -6,22 +6,16 @@ Home Page:
 
 ![hana](/images/하나.jpg)
 
-## Features
+## 하나와의 추억
 
- - 하나를 만나게 된 사연 -
- - 하나의 첫 산책 -
- - 하나를 잃어버린 날 -
- - 하나의 우울증 -
+ - 하나를 만나게 된 사연 
+ - 하나의 첫 산책 
+ - 하나를 잃어버린 날 
+ - 하나의 우울증 
  - 하나의 첫 병원 -
+## 하나와의 추억을 저장하는 곳
 
-## Basic Setup for a new Jekyll site
-
-1. [Install Jekyll](http://jekyllrb.com) if you haven't already.
-2. Fork the [Feature Blog Theme](https://github.com/lavkumarv/feature-blog-jekyll/fork)
-3. Clone the repo you just forked.
-4. Edit `_config.yml` to personalize your site.
-5. Check out the sample posts in `_posts` to see examples for pulling in large feature images, assigning categories and tags, and other YAML data.
-6. Read the documentation below for further customization pointers and documentation.
+ - 아직은 잘 다루질 못하지만 자주 이 사이트에 들려 다양한 하나와의 추억들을 저장해야겠다.
 
 ---
 
