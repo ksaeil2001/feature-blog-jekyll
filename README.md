@@ -4,7 +4,7 @@ Feature Blog is a minimalist, beautiful, responsive theme for Jekyll. It is buil
 
 Home Page:
 
-![home](home.jpg "home")
+![hana](/images/하나.jpg)
 
 ## Features
 
