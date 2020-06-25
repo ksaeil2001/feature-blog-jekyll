@@ -8,21 +8,11 @@ Home Page:
 
 ## Features
 
-* Twitter Bootstrap 3
-* Option to set featured image & video in post
-* Pagination support
-* Disqus comments if you choose to enable
-* MailChip Integration for subscription
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/), [Twitter Cards](https://dev.twitter.com/docs/cards) and Schema.org for a better social sharing experience
-* Support for recent post
-* SEO Enabled theme
-* Beautifully crafted 404 page
-* Custom categories and tags pages
-* Ajax based search
-* Sitemap for search engines
-* Google Fonts
-* Font awesome icons
-* Easy to configure and customize
+ - 하나를 만나게 된 사연 -
+ - 하나의 첫 산책 -
+ - 하나를 잃어버린 날 -
+ - 하나의 우울증 -
+ - 하나의 첫 병원 -
 
 ## Basic Setup for a new Jekyll site
 
