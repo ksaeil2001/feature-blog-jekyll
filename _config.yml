@@ -12,14 +12,14 @@ highlighter: pygments
 lsi:         false
 excerpt_separator: "\n\n"
 gems:
-  - jekyll-feed
-  - jekyll-paginate
+  - ksaeil2001-feed
+  - ksaeil2001-paginate
 exclude:
   - Gemfile
   - Gemfile.lock
 
 # pagination
-gems: [jekyll-paginate]
+gems: [ksaeil2001-paginate]
 paginate: 5
 paginate_path: "/page:num/"
 
